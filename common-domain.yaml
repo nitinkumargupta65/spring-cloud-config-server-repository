@@ -1,1 +1,5 @@
 ##common-domain
+spring:
+  config:
+    activate:
+      on-profile: default
