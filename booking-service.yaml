@@ -1,1 +1,5 @@
 ##booking-service.yaml
+spring:
+  config:
+    activate:
+      on-profile: default
